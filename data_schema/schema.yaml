@@ -1,0 +1,8 @@
+# Example schema for your dataset. Adjust fields as needed.
+columns:
+  - name: feature1
+    type: float
+  - name: feature2
+    type: int
+  - name: label
+    type: int
